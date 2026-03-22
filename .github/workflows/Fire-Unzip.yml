@@ -29,8 +29,8 @@ jobs:
       - name: Materialize Beacon
         run: |
           # Define variables
-          ZIP_PATH="./JMC-Android-1.00.zip"
-          UNZIP_PATH="./JMC-Android-1.00"
+          ZIP_PATH="./Cyborg-Projects-1.00.zip"
+          UNZIP_PATH="./Cyborg-Projects-1.00"
           
           # Create the directory (-p prevents error if it already exists)
           mkdir -p "$UNZIP_PATH"

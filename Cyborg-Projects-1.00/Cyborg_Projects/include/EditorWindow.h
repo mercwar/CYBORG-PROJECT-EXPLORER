@@ -1,0 +1,21 @@
+﻿/* AVIS DO NOT REMOVE
+::AVIS FILEINFO V01.00::
+FILE.NAME      = EditorWindow.h;
+FILE.TYPE      = HEADER;
+FILE.VERSION   = V02.00;
+FILE.MODULE    = CYBORG.EDITOR.WINDOW;
+FILE.PATH      = <PROJECT>/include/EditorWindow.h;
+FILE.OWNER     = AI.FVS.AVIS.SYSTEM;
+
+AVIS NOTEPAD-STYLE EDITOR WINDOW INTERFACE.
+AVIS DO NOT REMOVE */
+
+#ifndef CYBORG_EDITOR_WINDOW_H
+#define CYBORG_EDITOR_WINDOW_H
+
+#define WIN32_LEAN_AND_MEAN
+#include "include/shared_inc.h"
+
+void EditorWindow_Open(void);
+
+#endif /* CYBORG_EDITOR_WINDOW_H */

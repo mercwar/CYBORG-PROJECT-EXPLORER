@@ -1,0 +1,22 @@
+﻿::AVIS LINKER V01.00::
+LINKER.TOOL    = Pelles C 13 (x64);
+LINKER.SUBSYS  = WINDOWS;
+LINKER.ENTRY   = WinMainCRTStartup;
+
+LINKER.LIBS =
+    kernel32.lib,
+    user32.lib,
+    gdi32.lib,
+    comctl32.lib,
+    comdlg32.lib,
+    advapi32.lib,
+    delayimp64.lib,
+    shell32.lib,
+    ole32.lib;
+    shlwapi.lib;
+
+LINKER.FLAGS =
+    /subsystem:windows,
+    /machine:x64,
+    /entry:WinMainCRTStartup,
+    /incremental:no;

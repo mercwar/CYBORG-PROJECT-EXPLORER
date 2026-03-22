@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="include\FileCopySelector_Main.h" />
+	<category name="SRC\FileCopySelector_Main.c">
+		<category name="Window">
+			<property name="Left" type="integer">156</property>
+			<property name="Top" type="integer">156</property>
+			<property name="Right" type="integer">860</property>
+			<property name="Bottom" type="integer">594</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\FolderPicker_SelectFolder.c" />
+	<category name="SRC\Cyborg_Rich_Load.c" />
+	<category name="SRC\RichEdit_Dynamic.c">
+		<category name="Window">
+			<property name="Left" type="integer">130</property>
+			<property name="Top" type="integer">130</property>
+			<property name="Right" type="integer">834</property>
+			<property name="Bottom" type="integer">568</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\Cyborg_Rich.c" />
+	<category name="include\Cyborg_Rich.h" />
+	<category name="include\main.h" />
+	<category name="include\FileCopySelector.h">
+		<category name="Window">
+			<property name="Left" type="integer">52</property>
+			<property name="Top" type="integer">52</property>
+			<property name="Right" type="integer">1012</property>
+			<property name="Bottom" type="integer">490</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="include\FileTypeSelector.h" />
+	<category name="include\PopupEditor.h" />
+	<category name="include\DirSelector.h" />
+	<category name="include\Registry.h" />
+	<category name="include\MigrationEngine.h" />
+	<category name="include\shared_inc.h" />
+	<category name="include\Debug_Dialog.h" />
+	<category name="SRC\DebugDialog.c" />
+	<category name="cyborg_projects.rc">
+		<category name="Window">
+			<property name="Left" type="integer">182</property>
+			<property name="Top" type="integer">182</property>
+			<property name="Right" type="integer">886</property>
+			<property name="Bottom" type="integer">620</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="include\defs.h">
+		<category name="Window">
+			<property name="Left" type="integer">0</property>
+			<property name="Top" type="integer">0</property>
+			<property name="Right" type="integer">704</property>
+			<property name="Bottom" type="integer">438</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\Registry.c">
+		<category name="Window">
+			<property name="Left" type="integer">104</property>
+			<property name="Top" type="integer">104</property>
+			<property name="Right" type="integer">808</property>
+			<property name="Bottom" type="integer">542</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="include\RichEdit_Dynamic.h">
+		<category name="Window">
+			<property name="Left" type="integer">156</property>
+			<property name="Top" type="integer">156</property>
+			<property name="Right" type="integer">860</property>
+			<property name="Bottom" type="integer">594</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\FileTypeSelector.c" />
+	<category name="SRC\DirSelector.c" />
+	<category name="SRC\FileCopySelector.c">
+		<category name="Window">
+			<property name="Left" type="integer">26</property>
+			<property name="Top" type="integer">26</property>
+			<property name="Right" type="integer">730</property>
+			<property name="Bottom" type="integer">464</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="include\EditorWindow.h" />
+	<category name="SRC\EditorWindow.c" />
+	<category name="SRC\PopupEditor.c">
+		<category name="Window">
+			<property name="Left" type="integer">52</property>
+			<property name="Top" type="integer">52</property>
+			<property name="Right" type="integer">756</property>
+			<property name="Bottom" type="integer">490</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\MigrationEngine.c" />
+	<category name="include\FolderPicker.h" />
+	<category name="SRC\FolderPicker.c" />
+	<category name="include\AdvancedSearchDialog.h" />
+	<category name="SRC\AdvancedSearchDialog.c" />
+	<category name="SRC\CyborgMigrationTool.c">
+		<category name="Window">
+			<property name="Left" type="integer">78</property>
+			<property name="Top" type="integer">78</property>
+			<property name="Right" type="integer">782</property>
+			<property name="Bottom" type="integer">516</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\main.c">
+		<category name="Window">
+			<property name="Left" type="integer">104</property>
+			<property name="Top" type="integer">104</property>
+			<property name="Right" type="integer">808</property>
+			<property name="Bottom" type="integer">542</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="filelist_CyborgProjects.txt">
+		<category name="Window">
+			<property name="Left" type="integer">130</property>
+			<property name="Top" type="integer">130</property>
+			<property name="Right" type="integer">834</property>
+			<property name="Bottom" type="integer">568</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\FileCopySelector_Open.c">
+		<category name="Window">
+			<property name="Left" type="integer">156</property>
+			<property name="Top" type="integer">156</property>
+			<property name="Right" type="integer">860</property>
+			<property name="Bottom" type="integer">594</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="FileProjectSelector.rc">
+		<category name="Window">
+			<property name="Left" type="integer">182</property>
+			<property name="Top" type="integer">182</property>
+			<property name="Right" type="integer">886</property>
+			<property name="Bottom" type="integer">620</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="FileCopySelector.rc">
+		<category name="Window">
+			<property name="Left" type="integer">0</property>
+			<property name="Top" type="integer">0</property>
+			<property name="Right" type="integer">704</property>
+			<property name="Bottom" type="integer">438</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="include\FP_CopyProject.h">
+		<category name="Window">
+			<property name="Left" type="integer">26</property>
+			<property name="Top" type="integer">26</property>
+			<property name="Right" type="integer">730</property>
+			<property name="Bottom" type="integer">464</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="SRC\FP_CopyProject.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967288</property>
+			<property name="Top" type="integer">4294967265</property>
+			<property name="Right" type="integer">947</property>
+			<property name="Bottom" type="integer">592</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="SRC\FileProjectSelector_Main.c">
+		<category name="Window">
+			<property name="Left" type="integer">78</property>
+			<property name="Top" type="integer">78</property>
+			<property name="Right" type="integer">782</property>
+			<property name="Bottom" type="integer">516</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>

@@ -1,5 +1,6 @@
 
-# CVBGOD'S CYBORG PROJECT EXPLORER 
+[GoTo eV.2](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00)
+# CVBGOD'S CYBORG PROJECT EXPLORER eV2 
 ### AVIS MERCWAR EDITION 
 The **Cyborg Project Explorer** is the official MERCWAR / FFF directory‑intelligence module.  
 It scans file systems, filters directories, identifies AVIS artifacts, and prepares structured data for Fire‑Gem, AVIS, and macro‑driven pipelines.

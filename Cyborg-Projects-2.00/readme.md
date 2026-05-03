@@ -90,6 +90,7 @@ On launch:
 | ❌ No Console | GUI‑only mode |
 
 ---
+![PE3](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260322_040639.png)
 
 ## 🖥️ 3.2 What BOX Is  
 BOX = **The Dashboard**  
@@ -193,6 +194,8 @@ CVBGOD‑DN ensures:
 4. Use buttons as needed  
 
 ---
+
+![ev5](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/ChatGPT%20Image%20May%203%2C%202026%2C%2008_55_42%20AM.png)
 
 ## 🎛️ BOX Buttons (Simple)
 

@@ -1,4 +1,4 @@
-## 📀 [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) the NEW eV.2 [scanner.exe](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) file: [Here](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) 
+## 📀 [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) the NEW eV.2 [FFF-CPJE.exe](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) file: [Here](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) 
 #### Note: This Project is now the Windows x64 Version for the CVBGOD AI BATCH SCAN PROGRAM
 
 ![rev1](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_d063tdd063tdd063.png)

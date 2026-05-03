@@ -22,13 +22,40 @@
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/build_cpj.sh</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku3.bmp</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/LOG/firegem_debug.log</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku.bmp</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku2.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/FFF-CPJE.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku8.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku-org.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku6.bmp</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/scanner.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku1.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku5.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku7.bmp</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.h</loc>
@@ -47,9 +74,6 @@
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/CPJ-V2.0.zip</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/fire-end.sh</loc>

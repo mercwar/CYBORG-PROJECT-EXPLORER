@@ -1,16 +1,16 @@
 ###### 🔓 Go [Back](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/) to eV.x
 ## 🌐✨ **CYBORG‑PROJECTS‑2.00**  
-#### **SCANNER • BOX • CVBGOD‑DN**  
 ##### *Enterprise‑Grade Runtime Suite — RKU‑SHINE Edition*
 
----
-
 <div align="center">
+  
+![evff](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/8d6e3484-902b-441b-97fe-3bec4b2c771f.jpg)
 
-![ev2](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/ChatGPT%20Image%20May%203%2C%202026%2C%2008_47_17%20AM.png)
 </div>
 
 ---
+
+#### **SCANNER • BOX • CVBGOD‑DN**  
 
 # 🧭 **1. Overview**
 
@@ -34,6 +34,8 @@ Cyborg‑Projects‑2.00 is a deterministic execution environment built around t
 - Win32 libs: `user32`, `gdi32`, `kernel32`, `shlwapi`
 
 ---
+
+![ev5](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/ChatGPT%20Image%20May%203%2C%202026%2C%2008_55_42%20AM.png)
 
 ## 📁 2.2 Build Script  
 `CLASS/CPJ/build_cpj.sh`
@@ -155,6 +157,11 @@ It shows:
 
 ---
 
+<div align="center">
+  
+![ev2](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/ChatGPT%20Image%20May%203%2C%202026%2C%2008_47_17%20AM.png)
+
+</div>
 # 🧬 **5. Deterministic Behavior (CVBGOD‑DN)**
 
 CVBGOD‑DN ensures:
@@ -195,8 +202,6 @@ CVBGOD‑DN ensures:
 4. Use buttons as needed  
 
 ---
-
-![ev5](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/ChatGPT%20Image%20May%203%2C%202026%2C%2008_55_42%20AM.png)
 
 ## 🎛️ BOX Buttons (Simple)
 

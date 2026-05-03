@@ -6,8 +6,7 @@
 
 <div align="center">
 
-`https://dummyimage.com/1200x200/0a0a0a/00eaff&text=CYBORG-PROJECTS-2.00+%E2%80%94+RKU+SHINE`
-
+![ev2](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/ChatGPT%20Image%20May%203%2C%202026%2C%2008_47_17%20AM.png)
 </div>
 
 ---

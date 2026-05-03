@@ -1,6 +1,7 @@
-# 🌐✨ **CYBORG‑PROJECTS‑2.00**  
-### **SCANNER • BOX • CVBGOD‑DN**  
-#### *Enterprise‑Grade Runtime Suite — RKU‑SHINE Edition*
+###### 🔓 Go [Back](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/) to eV.x
+## 🌐✨ **CYBORG‑PROJECTS‑2.00**  
+#### **SCANNER • BOX • CVBGOD‑DN**  
+##### *Enterprise‑Grade Runtime Suite — RKU‑SHINE Edition*
 
 ---
 

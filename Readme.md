@@ -1,13 +1,36 @@
+## 📀 [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) the NEW eV.2 [scanner.exe](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) file: [Here](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) 
+#### Note: This Project is now the Windows x64 Version for the CVBGOD AI BATCH SCAN PROGRAM
 
-[GoTo eV.2](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00)
-# CVBGOD'S CYBORG PROJECT EXPLORER eV2 
-### AVIS MERCWAR EDITION 
+![rev1](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_d063tdd063tdd063.png)
+
+---
+
+# ⚔️ **CVBGOD'S CYBORG PROJECT EXPLORER — HOME**
+
+##### **MERCWAR / FFF DARKCOMM SYSTEMS — UNIVERSAL DIRECTORY INTELLIGENCE**
+
+##### Welcome to the **Cyborg Project Explorer Home**, the central hub for all versions of the Explorer suite.  
+Each version represents a stage in the evolution of the **AVIS / MERCWAR directory‑intelligence system** — from early artifact scanning to full holographic project visualization.
+
+---
+
+#### 🔗 **Version Index**
+
+- **How to get eV.2**
+- [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) eV.2
+
+
+Each version builds upon the previous, refining scanning precision, artifact detection, and holographic output fidelity.
+
+---
+
+## ⚙️ **Overview**
+
 The **Cyborg Project Explorer** is the official MERCWAR / FFF directory‑intelligence module.  
 It scans file systems, filters directories, identifies AVIS artifacts, and prepares structured data for Fire‑Gem, AVIS, and macro‑driven pipelines.
 
-![CPE2](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260322_040841.png)
 
-### COPYWRITE © FFF DARKCOMM / MERCWAR SYSTEMS — ALL RIGHTS RESERVED
+![PE2](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260322_040841.png)
 
 
 This is **not** the runtime, **not** the OS, and **not** the emulator.  
@@ -15,56 +38,39 @@ This is the **Explorer** — the holographic interface that reads your project u
 
 ---
 
-## Overview
+## 🧩 **Core Features**
 
-Cyborg Project Explorer provides:
 
-- High‑speed directory scanning  
-- Intelligent filtering (extensions, size, type)  
-- AVIS artifact detection  
-- Macro‑ready file queue generation  
-- Holographic UI output (for MERCWAR visual modules)  
-- Registry posting for downstream systems  
 
-It is designed to be the **first step** in any MERCWAR / FFF workflow.
 
----
-
-## Features
-
-![CPE](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260322_040639.png)
-
-### 🔍 Directory Scanner
+### 🔍 **Directory Scanner**
 - Recursive scanning  
 - Folder/file detection  
 - Symbolic link awareness  
 - Exclusion masks  
 - Depth limits  
 
-### 🧩 Filter Engine
+### 🧠 **Filter Engine**
 Supports filtering by:
-
 - File type: folders, files, mixed  
 - Extensions: `.c`, `.h`, `.txt`, `.avis`, `.dat`, `.json`  
 - Size thresholds: `> 1MB`, `> 10MB`, `> 100MB`  
 - Hidden/system file exclusion  
 
-### 🛡 AVIS Artifact Detection
+### 🛡 **AVIS Artifact Detection**
 Automatically identifies:
-
 - AVIS headers  
 - AVIS metadata blocks  
 - AVIS project roots  
 - AVIS‑compliant file structures  
 
-### 🧠 Macro Preparation
+### ⚙️ **Macro Preparation**
 - Builds macro‑ready file lists  
 - Prepares Fire‑Gem input queues  
 - Supports batch macro injection  
 
-### 🖥 Holographic UI (Optional)
+### 🖥 **Holographic UI (Optional)**
 If paired with MERCWAR visual modules, Explorer can output:
-
 - Directory trees  
 - Filtered results  
 - File metadata  
@@ -73,7 +79,7 @@ If paired with MERCWAR visual modules, Explorer can output:
 
 ---
 
-## Project Layout
+## 🧱 **Project Layout**
 
 ```
 cyborg_explorer/
@@ -92,17 +98,16 @@ cyborg_explorer/
 
 ---
 
-## Getting Started
+## 🚀 **Getting Started**
 
-### 1. Clone the Repository
+### **1. Clone the Repository**
 ```
 git clone https://github.com/mercwar/cyborg-explorer.git
 cd cyborg-explorer
 ```
 
-### 2. Configure Filters
+### **2. Configure Filters**
 Edit `config.ini`:
-
 ```
 root=/your/project/path
 extensions=.c,.h,.txt,.avis
@@ -110,23 +115,25 @@ min_size=0
 avis_mode=1
 ```
 
-### 3. Run the Explorer
-Linux/Mac:
+### **3. Run the Explorer**
+
+**Linux/Mac:**
 ```
 ./explorer_run.sh
 ```
 
-Windows:
+**Windows:**
 ```
 explorer_run.bat
 ```
 
+![ev4](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Copilot_20260503_085512.png)
+
 ---
 
-## Output
+## 📦 **Output**
 
 Explorer produces:
-
 - Filtered directory tree  
 - AVIS artifact map  
 - Macro‑ready file queue  
@@ -135,21 +142,20 @@ Explorer produces:
 
 ---
 
-## Extending Cyborg Explorer
+## 🔮 **Extending Cyborg Explorer**
 
 You can expand Explorer into:
-
 - Full AVIS project loaders  
 - Fire‑Gem macro runners  
 - Multi‑window holographic explorers  
 - Remote scan agents  
 - MERCWAR system dashboards  
 
-Explorer is intentionally modular — every subsystem can be replaced, extended, or merged into AVIS‑2026.
+Explorer is intentionally modular — every subsystem can be replaced, extended, or merged into **AVIS‑2026**.
 
 ---
 
-## COPYWRITE
+## 🧾 **COPYWRITE**
 
 © FFF DARKCOMM / MERCWAR SYSTEMS  
 All rights reserved.  

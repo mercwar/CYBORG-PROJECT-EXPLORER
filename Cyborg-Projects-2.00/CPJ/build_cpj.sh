@@ -19,9 +19,9 @@ gcc -O2 -static \
     -I"$CPJ" \
     -I"$BOX/include" \
     -Wl,-subsystem,windows \
-    -o "$OUT/scanner.exe" \
+    -o "$OUT/FFF-CPJE.exe" \
     -luser32 -lkernel32 -lgdi32 -lshlwapi
 
 
-echo "[CPJ] Build complete: $OUT/scanner.exe"
+echo "[CPJ] Build complete: $OUT/CPJE.exe"
 read -p "Press ENTER to exit..." dummy

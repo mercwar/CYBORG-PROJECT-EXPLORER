@@ -271,7 +271,7 @@ void BOX_Debug_Open(void)
 
     BOX_LoadBorderImage();
 
-    /* If BMP loaded, size window to it */
+    /* Resize window to BMP if loaded */
     if (g_borderBmp)
     {
         BITMAP bm;
@@ -279,13 +279,11 @@ void BOX_Debug_Open(void)
         SetWindowPos(g_boxWnd, NULL, 0, 0, bm.bmWidth, bm.bmHeight, SWP_NOMOVE | SWP_NOZORDER);
     }
 
-    /* BLACK AREA (COORDS FROM YOUR DESIGN) */
-const int BLACK_LEFT   = 80;
-const int BLACK_TOP    = 250;
-const int BLACK_RIGHT  = 925;
-const int BLACK_BOTTOM = 765;
-
-
+    /* BLACK AREA (NEW COORDS) */
+    const int BLACK_LEFT   = 85;
+    const int BLACK_TOP    = 277;
+    const int BLACK_RIGHT  = 940;
+    const int BLACK_BOTTOM = 830;
 
     const int BLACK_WIDTH  = BLACK_RIGHT  - BLACK_LEFT;
     const int BLACK_HEIGHT = BLACK_BOTTOM - BLACK_TOP;
@@ -316,33 +314,33 @@ const int BLACK_BOTTOM = 765;
     int btnW = 90;
     int spacing = 14;
 
- HWND TWIN=NULL;
-TWIN = CreateWindowW(
-    L"BUTTON", L"Copy",
-    WS_CHILD | WS_VISIBLE | BS_OWNERDRAW,
-    BLACK_LEFT,
-    btnY,
-    btnW, btnH,
-    g_boxWnd,
-    (HMENU)ID_BOX_COPY,
-    wc.hInstance,
-    NULL
-);
+    HWND TWIN = NULL;
 
-TWIN = CreateWindowW(
-    L"BUTTON", L"Clear",
-    WS_CHILD | WS_VISIBLE | BS_OWNERDRAW,
-    BLACK_LEFT + btnW + spacing,
-    btnY,
-    btnW, btnH,
-    g_boxWnd,
-    (HMENU)ID_BOX_CLEAR,
-    wc.hInstance,
-    NULL
-);
+    TWIN = CreateWindowW(
+        L"BUTTON", L"Copy",
+        WS_CHILD | WS_VISIBLE | BS_OWNERDRAW,
+        BLACK_LEFT,
+        btnY,
+        btnW, btnH,
+        g_boxWnd,
+        (HMENU)ID_BOX_COPY,
+        wc.hInstance,
+        NULL
+    );
 
+    TWIN = CreateWindowW(
+        L"BUTTON", L"Clear",
+        WS_CHILD | WS_VISIBLE | BS_OWNERDRAW,
+        BLACK_LEFT + btnW + spacing,
+        btnY,
+        btnW, btnH,
+        g_boxWnd,
+        (HMENU)ID_BOX_CLEAR,
+        wc.hInstance,
+        NULL
+    );
 
-     TWIN=CreateWindowW(
+    TWIN = CreateWindowW(
         L"BUTTON", L"Always On Top",
         WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX,
         BLACK_LEFT + (btnW + spacing) * 2,

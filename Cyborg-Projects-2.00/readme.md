@@ -1,4 +1,22 @@
 ###### 🔓 Go [Back](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/) to eV.x
+
+## **🚀 How to Install Cyborg‑Projects‑2.00**
+
+1. **Download the `Cyborg-Projects-2.00` folder**  
+   Make sure it contains both subfolders: **`/CPJ`** and **`/BOX`**.  
+   They must sit **in the same directory**.
+
+2. **Run the CPJ engine**  
+   Navigate to:  
+   **`CPJ/bin/FFF-CPJE.exe`**  
+   and launch it.
+
+3. **Copy the runtime into your project**  
+   Duplicate the entire **`Cyborg-Projects-2.00`** folder and **drop it into your project root**.  
+   CPJ will always **default to the application root** when it loads.
+
+---
+
 ## 🌐✨ **CYBORG‑PROJECTS‑2.00**  
 ##### *Enterprise‑Grade Runtime Suite — RKU‑SHINE Edition*
 

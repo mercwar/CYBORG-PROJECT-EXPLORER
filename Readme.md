@@ -8,19 +8,22 @@
 
 ---
 
-## 📀 [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) the NEW eV.2 [FFF-CPJE.exe](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) file: [Here](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) 
+#### 📀 [Download](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) the NEW eV.2 [FFF-CPJE.exe](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) file: [Here](https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/tree/main/Cyborg-Projects-2.00) 
 #### Note: This Project is now the Windows x64 Version for the CVBGOD AI BATCH SCAN PROGRAM
 
 ![rev1](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_d063tdd063tdd063.png)
 
 ---
 
-# ⚔️ **CVBGOD'S CYBORG PROJECT EXPLORER — HOME**
+### ⚔️ **CVBGOD'S CYBORG PROJECT EXPLORER — HOME**
 
-##### **MERCWAR / FFF DARKCOMM SYSTEMS — UNIVERSAL DIRECTORY INTELLIGENCE**
+##### 
+- MERCWAR / FFF DARKCOMM AVIS SYSTEMS
+- UNIVERSAL DIRECTORY INTELLIGENCE
 
-##### Welcome to the **Cyborg Project Explorer Home**, the central hub for all versions of the Explorer suite.  
-Each version represents a stage in the evolution of the **AVIS / MERCWAR directory‑intelligence system** — from early artifact scanning to full holographic project visualization.
+##### 
+Welcome to the **Cyborg Project Explorer Home**, the central hub for all versions of the Explorer suite.  
+Each version represents a stage in the evolution of the **AVIS / MERCWAR directory‑intelligence system** from early artifact scanning to full holographic project visualization.
 
 ---
 

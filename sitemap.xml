@@ -1,142 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/sitemap.xml</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00.zip</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Readme.md</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/shared_inc.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/favicon.ico</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/defs.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/EditorWindow.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FolderPicker.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/root.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FP_CopyProject.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/project_source.txt</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileCopySelector_Main.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/build_cpj.sh</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/Registry.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku.bmp</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileTypeSelector.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/LOG/firegem_debug.log</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/Cyborg_Rich.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/FFF-CPJE.exe</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileProjectSelector.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/root.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/main.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/readme.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/BOX/src/BOX_DEBUG.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/BOX/include/BOX_DEBUG.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/fire-end.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/CPJ-V2.0.zip</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/index.js</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/CVBGOD</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/index.css</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/banner.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/cyborg_projects.rc</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/FileCopySelector.rc</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileProjectSelector.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FolderPicker.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/CyborgMigrationTool.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Cyborg_Rich.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Cyborg_Rich_Load.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/main.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector_Main.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/PopupEditor.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/DebugDialog.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/AdvancedSearchDialog.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/EditorWindow.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/MigrationEngine.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/DirSelector.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FolderPicker_SelectFolder.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Registry.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector_Open.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/RichEdit_Dynamic.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileTypeSelector.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/cyborg_projects.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/FileProjectSelector.rc</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/MigrationEngine.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/DEBUG_DIALOG.h</loc>
@@ -145,88 +46,145 @@
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/PopupEditor.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FP_CopyProject.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileCopySelector.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/EditorWindow.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/MigrationEngine.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileProjectSelector.h</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/DirSelector.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/AdvancedSearchDialog.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/RichEdit_Dynamic.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FolderPicker.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/AdvancedSearchDialog.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/main.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileCopySelector.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileTypeSelector.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/cyborg_projects.rc</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/Registry.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FolderPicker_SelectFolder.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/FileCopySelector_Main.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Registry.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/defs.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/CyborgMigrationTool.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/shared_inc.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/DirSelector.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/include/Cyborg_Rich.h</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Cyborg_Rich.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.exe</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/DebugDialog.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/main.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/PopupEditor.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/cyborg_projects.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/Cyborg_Rich_Load.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/MigrationEngine.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FolderPicker.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector_Main.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileProjectSelector.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/EditorWindow.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/RichEdit_Dynamic.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileTypeSelector.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/FileCopySelector_Open.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/output/AdvancedSearchDialog.obj</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/selected.txt</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Misc/LINKER.txt</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.ppj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileCopySelector_Main.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/FileProjectSelector.rc</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/CyborgMigrationTool.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileProjectSelector_Main.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FP_CopyProject.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/MigrationEngine.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/Cyborg_Rich_Load.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.tag</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/AdvancedSearchDialog.c</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/EditorWindow.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileCopySelector_Main.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/RichEdit_Dynamic.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileCopySelector.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/Cyborg_Rich_Load.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FolderPicker_SelectFolder.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/CyborgMigrationTool.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/MigrationEngine.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FP_CopyProject.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/Registry.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/main.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/DirSelector.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FolderPicker.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/PopupEditor.c</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileCopySelector_Open.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileProjectSelector_Main.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/DebugDialog.c</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileTypeSelector.c</loc>
@@ -235,60 +193,102 @@
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/Cyborg_Rich.c</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/DebugDialog.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/EditorWindow.c</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FileCopySelector.c</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.exe</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/RichEdit_Dynamic.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/main.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/Registry.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/PopupEditor.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FolderPicker.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/FolderPicker_SelectFolder.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/SRC/DirSelector.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/filelist_CyborgProjects.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.tag</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Misc/LINKER.txt</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.ppx</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/Cyborg_Projects.ppj</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/FileCopySelector.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00/Cyborg_Projects/filelist_CyborgProjects.txt</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/index.html</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/fire-site.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/fire-end.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/favicon.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Readme.md</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/favi-con.ico</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-1.00.zip</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/BOX/include/BOX_DEBUG.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/fire-site.sh</loc>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/BOX/src/BOX_DEBUG.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/readme.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/root.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/build_cpj.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/LOG/firegem_debug.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/bg-rku.bmp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/bin/FFF-CPJE.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/scanner_ops.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/root.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Cyborg-Projects-2.00/CPJ/project_source.txt</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/.github/workflows/Fire-Unzip.yml</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/.github/workflows/fire-site.yml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/banner.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/CVBGOD</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/index.css</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/Live/index.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/CPJ-V2.0.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORG-PROJECT-EXPLORER/blob/main/sitemap.xml</loc>
   </url>
 </urlset>
